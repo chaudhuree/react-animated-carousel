@@ -1,6 +1,6 @@
-import React, { useRef, useEffect, useState } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleLeft, faAngleRight } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import React, { useRef, useState } from "react";
 import "./index.css";
 
 const Slider = () => {
